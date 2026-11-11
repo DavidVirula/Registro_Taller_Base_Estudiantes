@@ -74,3 +74,20 @@ Inicializa o utiliza el repositorio Git de la clase. Realiza commits descriptivo
 - `Agrega edición, eliminación y reportes`
 
 No subas `node_modules`, archivos `.env` ni la base de datos local.
+
+## Evidencias del sistema
+
+### 1. Página principal
+![Página principal](01_inicio_form.png)
+
+### 2. Formulario de inscripción
+![Formulario](02_fin_form.png)
+
+### 3. Inscripciones registradas
+![Inscripciones](03_inscripciones.png)
+
+### 4. Reportes
+![Reportes](04_reportes.png)
+
+### 5. Edición de inscripción
+![Edición](05_edicion.png)
